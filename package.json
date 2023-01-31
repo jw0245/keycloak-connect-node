@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "crypto-js": "^4.1.1",
+    "express": "^4.18.2",
+    "keycloak-connect": "^20.0.3"
+  },
+  "name": "keycloak_connect",
+  "version": "1.0.0",
+  "description": "Demo Project for Node.js Keycloak Intergration",
+  "main": "test.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "gw0245",
+  "license": "ISC"
+}
